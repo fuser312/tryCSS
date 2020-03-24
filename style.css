@@ -1,0 +1,54 @@
+*{
+    font-family: sans-serif;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.cards{
+    border: 2px rgb(200,200,200) solid;
+    margin: 20px auto;
+    width: 960px;
+    box-shadow: rgb(180,180,180) 2px 5px 8px;
+}
+
+h2{
+    text-decoration : underline;
+    text-align: center;
+    font-family: Serif;
+}
+
+.news-heading{
+    font-family: Serif;
+}
+
+.news-image{
+    width : 400px;
+    height: 200px;
+}
+
+.main-news{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.date{
+    font-size: 10px;
+    color: grey;
+}
+
+#subtitle{
+    text-align: center;
+    font-weight: bold;
+    font-family: Serif;
+}
+
+hr {
+    border-width: 1px;
+    margin-left: 16px; !important;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+    color: gray;
+}
